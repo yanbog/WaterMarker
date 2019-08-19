@@ -1,6 +1,8 @@
 /** 
+ *  WaterMarker
  *  为网页添加文字水印 
  *  @param {String} str 要添加的水印字符串
+ *  
  * */
 
 function addWaterMarker(str) {
